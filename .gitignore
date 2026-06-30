@@ -1,0 +1,15 @@
+target/
+
+# IDE metadata
+.idea/
+.vscode/
+nbproject/private/
+
+# OS and editor noise
+.DS_Store
+Thumbs.db
+*.swp
+*.swo
+
+# Logs
+*.log
